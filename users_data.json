@@ -60,6 +60,14 @@
         "vistasTotales": 0,
         "favoritasTotales": 0
       }
+    },
+    "usuario@ejemplo.com": {
+      "email": "usuario@ejemplo.com",
+      "tipoPlan": "creditos",
+      "credits": 0,
+      "favorites": [],
+      "history": [],
+      "resume": {}
     }
   }
 }
