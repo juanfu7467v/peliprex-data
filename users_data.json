@@ -10,12 +10,24 @@
           "titulo": "Rango",
           "pelicula_url": "https://youtube.com/watch?v=abcd1234",
           "imagen_url": "https://image.tmdb.org/t/p/w500/poster.jpg",
-          "fecha": "2025-10-13T14:17:52.853Z"
+          "fecha": "2025-10-13T14:17:54.942Z"
+        },
+        {
+          "titulo": "Rango",
+          "pelicula_url": "https://youtube.com/watch?v=abcd1234",
+          "imagen_url": "https://image.tmdb.org/t/p/w500/poster.jpg",
+          "fecha": "2025-10-13T14:17:49.415Z"
+        },
+        {
+          "titulo": "Rango",
+          "pelicula_url": "https://youtube.com/watch?v=abcd1234",
+          "imagen_url": "https://image.tmdb.org/t/p/w500/poster.jpg",
+          "fecha": "2025-10-13T14:17:39.346Z"
         }
       ],
       "resume": {},
       "stats": {
-        "vistasTotales": 1,
+        "vistasTotales": 3,
         "favoritasTotales": 0
       }
     }
