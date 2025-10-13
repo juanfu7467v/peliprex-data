@@ -1,1 +1,16 @@
-
+{
+  "users": {
+    "zantosdavila@gmail.com": {
+      "email": "zantosdavila@gmail.com",
+      "tipoPlan": "creditos",
+      "credits": 5,
+      "favorites": [],
+      "history": [],
+      "resume": {},
+      "stats": {
+        "vistasTotales": 0,
+        "favoritasTotales": 0
+      }
+    }
+  }
+}
