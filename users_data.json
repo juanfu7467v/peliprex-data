@@ -1,5 +1,24 @@
 {
   "users": {
+    "zantosdavila@gmail.com.com": {
+      "email": "zantosdavila@gmail.com.com",
+      "tipoPlan": "creditos",
+      "credits": 5,
+      "favorites": [],
+      "history": [
+        {
+          "titulo": "Rango",
+          "pelicula_url": "https://youtube.com/watch?v=abcd1234",
+          "imagen_url": "https://image.tmdb.org/t/p/w500/poster.jpg",
+          "fecha": "2025-10-13T14:31:29.542Z"
+        }
+      ],
+      "resume": {},
+      "stats": {
+        "vistasTotales": 1,
+        "favoritasTotales": 0
+      }
+    },
     "prueba@gmail.com": {
       "email": "prueba@gmail.com",
       "tipoPlan": "creditos",
