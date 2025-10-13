@@ -1,7 +1,7 @@
 {
   "users": {
-    "prueba@gmail.com": {
-      "email": "prueba@gmail.com",
+    "zantosdavila@gmail.com": {
+      "email": "zantosdavila@gmail.com",
       "tipoPlan": "creditos",
       "credits": 5,
       "favorites": [],
@@ -10,55 +10,6 @@
       "stats": {
         "vistasTotales": 0,
         "favoritasTotales": 0
-      }
-    },
-    "zantosdavila@gmail.com": {
-      "email": "zantosdavila@gmail.com",
-      "tipoPlan": "creditos",
-      "credits": 5,
-      "favorites": [
-        {
-          "titulo": "intruso",
-          "imagen_url": "https://1.bp.blogspot.com/-0EQKz6HwlPI/XWsiv9PFHNI/AAAAAAAAJj8/lWG25rvuEDIlcKKg5Sm_iOtgIhOIqO6EQCLcBGAs/s200/intruso.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1nVKqPP5NfB6cblCXMUmNVdfrbHaL1xRb/prepreview?usp=sharing",
-          "addedAt": "2025-10-13T14:28:11.797Z"
-        },
-        {
-          "titulo": "hamlet",
-          "imagen_url": "https://1.bp.blogspot.com/-Frv2znD9mak/XWsivZJFc_I/AAAAAAAAJj0/XI-ih8S-aBklk1wL2osY50g1fbpi6THwACLcBGAs/s200/hamlet.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1OjoKQJuDnw6SZLiWrDpg7Uu8v9hXnk6s/prepreview?usp=sharing",
-          "addedAt": "2025-10-13T14:28:09.536Z"
-        },
-        {
-          "titulo": "escape plan the extractors",
-          "imagen_url": "https://1.bp.blogspot.com/-KEPGOv0FTKU/XWsivvYCR6I/AAAAAAAAJj4/A35FuufPw-YM6Nzbftu07c7vLxEGTG-GQCLcBGAs/s200/escape_plan_the_extractors.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1KFp1B1qjF9pbB9Iel8VuVIzJw-XmKB0_/prepreview?usp=sharing",
-          "addedAt": "2025-10-13T14:28:07.337Z"
-        },
-        {
-          "titulo": "el dia en que la tierra se detuvo",
-          "imagen_url": "https://1.bp.blogspot.com/--lyDMYFVcxg/XWsiuXVgFHI/AAAAAAAAJjw/iCmI8nAqLQslN2GvWCivCGOyGGDm7-hFgCLcBGAs/s200/el%2Bdia%2Ben%2Bque%2Bla%2Btierra%2Bse%2Bdetuvo.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1Ze5KHdfipUwdW_dx8IM12ojO4Q1tG_uO/prepreview?usp=sharing",
-          "addedAt": "2025-10-13T14:28:04.879Z"
-        },
-        {
-          "titulo": "captain marvel",
-          "imagen_url": "https://1.bp.blogspot.com/-BggOIzzGAb0/XWsitZF34UI/AAAAAAAAJjo/hXaedx_hgQ0cPW7yTASfe-2Kg_IMBweDwCLcBGAs/s200/captain_marvel.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1f6Yj4qNoVPl3Jae5sOKCAxdnISTllQj5/prepreview?usp=sharing",
-          "addedAt": "2025-10-13T14:28:02.311Z"
-        },
-        {
-          "titulo": "B infierno al volante drive",
-          "imagen_url": "https://1.bp.blogspot.com/-x8StiwRq52I/XWsisiMndFI/AAAAAAAAJjg/IElksnT3SbcBrRmlUQ6ZaJ4bJe2uz9UVQCLcBGAs/s200/B%2Binfierno-al-volante-drive.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1nVtLdLXKRNjY4rHiCU1tsDgV_7YUjoal/prepreview?usp=sharing",
-          "addedAt": "2025-10-13T14:27:59.675Z"
-        }
-      ],
-      "history": [],
-      "resume": {},
-      "stats": {
-        "vistasTotales": 0,
-        "favoritasTotales": 6
       }
     }
   }
