@@ -18,6 +18,12 @@
       "credits": 5,
       "favorites": [
         {
+          "titulo": "escape plan the extractors",
+          "imagen_url": "https://1.bp.blogspot.com/-KEPGOv0FTKU/XWsivvYCR6I/AAAAAAAAJj4/A35FuufPw-YM6Nzbftu07c7vLxEGTG-GQCLcBGAs/s200/escape_plan_the_extractors.jpg",
+          "pelicula_url": "https://drive.google.com/file/d/1KFp1B1qjF9pbB9Iel8VuVIzJw-XmKB0_/prepreview?usp=sharing",
+          "addedAt": "2025-10-13T14:28:07.337Z"
+        },
+        {
           "titulo": "el dia en que la tierra se detuvo",
           "imagen_url": "https://1.bp.blogspot.com/--lyDMYFVcxg/XWsiuXVgFHI/AAAAAAAAJjw/iCmI8nAqLQslN2GvWCivCGOyGGDm7-hFgCLcBGAs/s200/el%2Bdia%2Ben%2Bque%2Bla%2Btierra%2Bse%2Bdetuvo.jpg",
           "pelicula_url": "https://drive.google.com/file/d/1Ze5KHdfipUwdW_dx8IM12ojO4Q1tG_uO/prepreview?usp=sharing",
@@ -40,7 +46,7 @@
       "resume": {},
       "stats": {
         "vistasTotales": 0,
-        "favoritasTotales": 3
+        "favoritasTotales": 4
       }
     }
   }
