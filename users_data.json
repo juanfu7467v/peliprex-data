@@ -5,7 +5,14 @@
       "tipoPlan": "creditos",
       "credits": 5,
       "favorites": [],
-      "history": [],
+      "history": [
+        {
+          "titulo": "rango",
+          "pelicula_url": "https://drive.google.com/file/d/1MnMisGYQz8Vg-oCn5H5yYGg2PYwAZGxr/preview?usp=sharing",
+          "imagen_url": "https://1.bp.blogspot.com/-_m_VhahE1yI/XSKxmt-4cqI/AAAAAAAAHc0/_snE9nLXfGM_eoov7YXRCWRsSMXF7sTqQCLcBGAs/s200/rango.jpg",
+          "fecha": "2025-10-13T22:01:04.511Z"
+        }
+      ],
       "resume": {},
       "stats": {
         "vistasTotales": 1,
