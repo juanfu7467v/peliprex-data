@@ -25,6 +25,18 @@
         "vistasTotales": 1,
         "favoritasTotales": 1
       }
+    },
+    "zantosdavia@gmail.com": {
+      "email": "zantosdavia@gmail.com",
+      "tipoPlan": "creditos",
+      "credits": 5,
+      "favorites": [],
+      "history": [],
+      "resume": {},
+      "stats": {
+        "vistasTotales": 0,
+        "favoritasTotales": 0
+      }
     }
   }
 }
