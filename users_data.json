@@ -18,6 +18,12 @@
       "credits": 5,
       "favorites": [
         {
+          "titulo": "intruso",
+          "imagen_url": "https://1.bp.blogspot.com/-0EQKz6HwlPI/XWsiv9PFHNI/AAAAAAAAJj8/lWG25rvuEDIlcKKg5Sm_iOtgIhOIqO6EQCLcBGAs/s200/intruso.jpg",
+          "pelicula_url": "https://drive.google.com/file/d/1nVKqPP5NfB6cblCXMUmNVdfrbHaL1xRb/prepreview?usp=sharing",
+          "addedAt": "2025-10-13T14:28:11.797Z"
+        },
+        {
           "titulo": "hamlet",
           "imagen_url": "https://1.bp.blogspot.com/-Frv2znD9mak/XWsivZJFc_I/AAAAAAAAJj0/XI-ih8S-aBklk1wL2osY50g1fbpi6THwACLcBGAs/s200/hamlet.jpg",
           "pelicula_url": "https://drive.google.com/file/d/1OjoKQJuDnw6SZLiWrDpg7Uu8v9hXnk6s/prepreview?usp=sharing",
@@ -52,7 +58,7 @@
       "resume": {},
       "stats": {
         "vistasTotales": 0,
-        "favoritasTotales": 5
+        "favoritasTotales": 6
       }
     }
   }
