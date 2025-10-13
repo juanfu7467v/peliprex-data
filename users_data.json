@@ -1,26 +1,21 @@
 {
   "users": {
-    "prueba@gmail.com": {
-      "email": "prueba@gmail.com",
-      "tipoPlan": "creditos",
-      "credits": 5,
-      "favorites": [],
-      "history": [],
-      "resume": {},
-      "stats": {
-        "vistasTotales": 0,
-        "favoritasTotales": 0
-      }
-    },
     "zantosdavila@gmail.com": {
       "email": "zantosdavila@gmail.com",
       "tipoPlan": "creditos",
       "credits": 5,
       "favorites": [],
-      "history": [],
+      "history": [
+        {
+          "titulo": "atrapada en el manicomio",
+          "pelicula_url": "https://drive.google.com/file/d/1tKGVfr1tUEvJkC4QHVyvEv_QewjibnZo/prepreview?usp=sharing",
+          "imagen_url": "https://1.bp.blogspot.com/-0pZa3o3X7fU/XWsqVb48U-I/AAAAAAAAJnk/ZOc-xc9wqqwcvNEAbrxyE3CzRqWzIgQkACLcBGAs/s200/atrapada%2Ben%2Bel%2Bmanicomio.jpg",
+          "fecha": "2025-10-13T15:35:55.675Z"
+        }
+      ],
       "resume": {},
       "stats": {
-        "vistasTotales": 0,
+        "vistasTotales": 1,
         "favoritasTotales": 0
       }
     }
