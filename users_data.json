@@ -16,12 +16,25 @@
       "email": "zantosdavila@gmail.com",
       "tipoPlan": "creditos",
       "credits": 5,
-      "favorites": [],
+      "favorites": [
+        {
+          "titulo": "captain marvel",
+          "imagen_url": "https://1.bp.blogspot.com/-BggOIzzGAb0/XWsitZF34UI/AAAAAAAAJjo/hXaedx_hgQ0cPW7yTASfe-2Kg_IMBweDwCLcBGAs/s200/captain_marvel.jpg",
+          "pelicula_url": "https://drive.google.com/file/d/1f6Yj4qNoVPl3Jae5sOKCAxdnISTllQj5/prepreview?usp=sharing",
+          "addedAt": "2025-10-13T14:28:02.311Z"
+        },
+        {
+          "titulo": "B infierno al volante drive",
+          "imagen_url": "https://1.bp.blogspot.com/-x8StiwRq52I/XWsisiMndFI/AAAAAAAAJjg/IElksnT3SbcBrRmlUQ6ZaJ4bJe2uz9UVQCLcBGAs/s200/B%2Binfierno-al-volante-drive.jpg",
+          "pelicula_url": "https://drive.google.com/file/d/1nVtLdLXKRNjY4rHiCU1tsDgV_7YUjoal/prepreview?usp=sharing",
+          "addedAt": "2025-10-13T14:27:59.675Z"
+        }
+      ],
       "history": [],
       "resume": {},
       "stats": {
         "vistasTotales": 0,
-        "favoritasTotales": 0
+        "favoritasTotales": 2
       }
     }
   }
