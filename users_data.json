@@ -4,7 +4,14 @@
       "email": "zantosdavila@gmail.com",
       "tipoPlan": "creditos",
       "credits": 5,
-      "favorites": [],
+      "favorites": [
+        {
+          "titulo": "B infierno al volante drive",
+          "imagen_url": "https://1.bp.blogspot.com/-x8StiwRq52I/XWsisiMndFI/AAAAAAAAJjg/IElksnT3SbcBrRmlUQ6ZaJ4bJe2uz9UVQCLcBGAs/s200/B%2Binfierno-al-volante-drive.jpg",
+          "pelicula_url": "https://drive.google.com/file/d/1nVtLdLXKRNjY4rHiCU1tsDgV_7YUjoal/prepreview?usp=sharing",
+          "addedAt": "2025-10-13T19:58:35.360Z"
+        }
+      ],
       "history": [
         {
           "titulo": "B infierno al volante drive",
