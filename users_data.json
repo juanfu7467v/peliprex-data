@@ -5,26 +5,7 @@
       "tipoPlan": "creditos",
       "credits": 5,
       "favorites": [],
-      "history": [
-        {
-          "titulo": "cirque du soleil worlds away 720p hd espanol latino dual portada",
-          "pelicula_url": "https://drive.google.com/file/d/1ooCNvJsP4UnT2JtlFmojtGSV1Hpvl2Qp/preview?usp=sharing",
-          "imagen_url": "https://1.bp.blogspot.com/-JqQqtVEa0do/XYrPC5S4sSI/AAAAAAAAJ9g/fCXzSvBu_OIgWEc6pjbcAmAaqcW6ooO9ACLcBGAsYHQ/s200/cirque-du-soleil-worlds-away-720p-hd-espanol-latino-dual-portada.jpg",
-          "fecha": "2025-10-13T21:32:28.604Z"
-        },
-        {
-          "titulo": "B infierno al volante drive",
-          "pelicula_url": "https://drive.google.com/file/d/1nVtLdLXKRNjY4rHiCU1tsDgV_7YUjoal/preview?usp=sharing",
-          "imagen_url": "https://1.bp.blogspot.com/-x8StiwRq52I/XWsisiMndFI/AAAAAAAAJjg/IElksnT3SbcBrRmlUQ6ZaJ4bJe2uz9UVQCLcBGAs/s200/B%2Binfierno-al-volante-drive.jpg",
-          "fecha": "2025-10-13T21:32:14.014Z"
-        },
-        {
-          "titulo": "B infierno al volante drive",
-          "pelicula_url": "https://drive.google.com/file/d/1nVtLdLXKRNjY4rHiCU1tsDgV_7YUjoal/preview?usp=sharing",
-          "imagen_url": "https://1.bp.blogspot.com/-x8StiwRq52I/XWsisiMndFI/AAAAAAAAJjg/IElksnT3SbcBrRmlUQ6ZaJ4bJe2uz9UVQCLcBGAs/s200/B%2Binfierno-al-volante-drive.jpg",
-          "fecha": "2025-10-13T21:32:12.912Z"
-        }
-      ],
+      "history": [],
       "resume": {},
       "stats": {
         "vistasTotales": 1,
