@@ -5,26 +5,7 @@
       "tipoPlan": "creditos",
       "credits": 5,
       "favorites": [],
-      "history": [
-        {
-          "titulo": "john wick",
-          "pelicula_url": "https://drive.google.com/file/d/1yks_EKOk5WFRtntYyDF18BGvfX1Y1DEb/preview?usp=sharing",
-          "imagen_url": "https://1.bp.blogspot.com/-RbA9Yj81DEU/XWsixIY0S8I/AAAAAAAAJkA/aIVDJJrB2QgIA3shQP_VQK-DDmOKUwAOgCLcBGAs/s200/john%2Bwick%2B3.jpg",
-          "fecha": "2025-10-13T21:21:13.470Z"
-        },
-        {
-          "titulo": "escape plan the extractors",
-          "pelicula_url": "https://drive.google.com/file/d/1KFp1B1qjF9pbB9Iel8VuVIzJw-XmKB0_/preview?usp=sharing",
-          "imagen_url": "https://1.bp.blogspot.com/-KEPGOv0FTKU/XWsivvYCR6I/AAAAAAAAJj4/A35FuufPw-YM6Nzbftu07c7vLxEGTG-GQCLcBGAs/s200/escape_plan_the_extractors.jpg",
-          "fecha": "2025-10-13T21:21:08.201Z"
-        },
-        {
-          "titulo": "el dia en que la tierra se detuvo",
-          "pelicula_url": "https://drive.google.com/file/d/1Ze5KHdfipUwdW_dx8IM12ojO4Q1tG_uO/preview?usp=sharing",
-          "imagen_url": "https://1.bp.blogspot.com/--lyDMYFVcxg/XWsiuXVgFHI/AAAAAAAAJjw/iCmI8nAqLQslN2GvWCivCGOyGGDm7-hFgCLcBGAs/s200/el%2Bdia%2Ben%2Bque%2Bla%2Btierra%2Bse%2Bdetuvo.jpg",
-          "fecha": "2025-10-13T21:20:55.123Z"
-        }
-      ],
+      "history": [],
       "resume": {},
       "stats": {
         "vistasTotales": 1,
