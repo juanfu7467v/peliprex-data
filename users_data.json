@@ -18,6 +18,12 @@
       "credits": 5,
       "favorites": [
         {
+          "titulo": "hamlet",
+          "imagen_url": "https://1.bp.blogspot.com/-Frv2znD9mak/XWsivZJFc_I/AAAAAAAAJj0/XI-ih8S-aBklk1wL2osY50g1fbpi6THwACLcBGAs/s200/hamlet.jpg",
+          "pelicula_url": "https://drive.google.com/file/d/1OjoKQJuDnw6SZLiWrDpg7Uu8v9hXnk6s/prepreview?usp=sharing",
+          "addedAt": "2025-10-13T14:28:09.536Z"
+        },
+        {
           "titulo": "escape plan the extractors",
           "imagen_url": "https://1.bp.blogspot.com/-KEPGOv0FTKU/XWsivvYCR6I/AAAAAAAAJj4/A35FuufPw-YM6Nzbftu07c7vLxEGTG-GQCLcBGAs/s200/escape_plan_the_extractors.jpg",
           "pelicula_url": "https://drive.google.com/file/d/1KFp1B1qjF9pbB9Iel8VuVIzJw-XmKB0_/prepreview?usp=sharing",
@@ -46,7 +52,7 @@
       "resume": {},
       "stats": {
         "vistasTotales": 0,
-        "favoritasTotales": 4
+        "favoritasTotales": 5
       }
     }
   }
