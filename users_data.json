@@ -5,10 +5,17 @@
       "tipoPlan": "creditos",
       "credits": 5,
       "favorites": [],
-      "history": [],
+      "history": [
+        {
+          "titulo": "Rango",
+          "pelicula_url": "https://youtube.com/watch?v=abcd1234",
+          "imagen_url": "https://image.tmdb.org/t/p/w500/poster.jpg",
+          "fecha": "2025-10-13T14:17:39.346Z"
+        }
+      ],
       "resume": {},
       "stats": {
-        "vistasTotales": 0,
+        "vistasTotales": 1,
         "favoritasTotales": 0
       }
     }
