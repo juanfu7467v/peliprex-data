@@ -18,6 +18,12 @@
       "credits": 5,
       "favorites": [
         {
+          "titulo": "el dia en que la tierra se detuvo",
+          "imagen_url": "https://1.bp.blogspot.com/--lyDMYFVcxg/XWsiuXVgFHI/AAAAAAAAJjw/iCmI8nAqLQslN2GvWCivCGOyGGDm7-hFgCLcBGAs/s200/el%2Bdia%2Ben%2Bque%2Bla%2Btierra%2Bse%2Bdetuvo.jpg",
+          "pelicula_url": "https://drive.google.com/file/d/1Ze5KHdfipUwdW_dx8IM12ojO4Q1tG_uO/prepreview?usp=sharing",
+          "addedAt": "2025-10-13T14:28:04.879Z"
+        },
+        {
           "titulo": "captain marvel",
           "imagen_url": "https://1.bp.blogspot.com/-BggOIzzGAb0/XWsitZF34UI/AAAAAAAAJjo/hXaedx_hgQ0cPW7yTASfe-2Kg_IMBweDwCLcBGAs/s200/captain_marvel.jpg",
           "pelicula_url": "https://drive.google.com/file/d/1f6Yj4qNoVPl3Jae5sOKCAxdnISTllQj5/prepreview?usp=sharing",
@@ -34,7 +40,7 @@
       "resume": {},
       "stats": {
         "vistasTotales": 0,
-        "favoritasTotales": 2
+        "favoritasTotales": 3
       }
     }
   }
