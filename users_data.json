@@ -6,6 +6,12 @@
       "credits": 5,
       "favorites": [
         {
+          "titulo": "APOC",
+          "imagen_url": "https://1.bp.blogspot.com/-dyhhlGI1u1I/XTFMFUuDK1I/AAAAAAAAH88/m09dTy_hTdQ6XuBulsxqVnFqDdozlUmggCLcBGAs/s200/APOC5.jpg",
+          "pelicula_url": "https://drive.google.com/file/d/1PrXSQCRvV4B2ZR7kRytY62bBvMlqVQ0Q/preview",
+          "addedAt": "2025-10-14T22:54:26.686Z"
+        },
+        {
           "titulo": "captain marvel",
           "imagen_url": "https://1.bp.blogspot.com/-BggOIzzGAb0/XWsitZF34UI/AAAAAAAAJjo/hXaedx_hgQ0cPW7yTASfe-2Kg_IMBweDwCLcBGAs/s200/captain_marvel.jpg",
           "pelicula_url": "https://drive.google.com/file/d/1f6Yj4qNoVPl3Jae5sOKCAxdnISTllQj5/preview?usp=sharing",
