@@ -4,32 +4,7 @@
       "email": "zantosdavila@gmail.com",
       "tipoPlan": "creditos",
       "credits": 5,
-      "favorites": [
-        {
-          "titulo": "level 16 2018 brrip hd 720p latino dual portada",
-          "imagen_url": "https://1.bp.blogspot.com/-1l05m8wAU9Q/XYEcWRQL_kI/AAAAAAAAJzg/qthxJUVQ8wQA8CIEfTUF7bG5blgrssv4QCLcBGAsYHQ/s200/level-16-2018-brrip-hd-720p-latino-dual-portada.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1Q59DifuvuBqhFsFzAmlAu-GSbz6CKBiz/preview",
-          "addedAt": "2025-10-14T15:34:12.292Z"
-        },
-        {
-          "titulo": "Guru Bodas 2015 BRRip 720p portada",
-          "imagen_url": "https://1.bp.blogspot.com/-Suq7ojDxJ1g/XcJUb6tXWmI/AAAAAAAAKoQ/7lVDUhepEdEupo_ZARzLPSY2T3PjyeSLQCLcBGAsYHQ/s200/Guru-Bodas-2015-BRRip-720p-portada.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1WdMnhsmTp9iBikNkUM5GF9pNENZbQebl/preview",
-          "addedAt": "2025-10-14T14:35:46.081Z"
-        },
-        {
-          "titulo": "Scooby Doo Retorno Isla Zombi 2019 HD 1080p 720p portada",
-          "imagen_url": "https://1.bp.blogspot.com/-Hznm_ldzh8A/XYEqMlv1IwI/AAAAAAAAJ0s/bA6N3oZ9n7wtdN4CNvcjlwCDvPPdF5SkgCLcBGAsYHQ/s200/Scooby-Doo-Retorno-Isla-Zombi-2019-HD-1080p-720p-portada.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1-Y62owgVFE7wQowcfO_q9F8HhRLR1bBd/preview",
-          "addedAt": "2025-10-14T13:50:25.373Z"
-        },
-        {
-          "titulo": "maya dardel",
-          "imagen_url": "https://1.bp.blogspot.com/-rcSHK30nEUI/XZ9DL4s6JrI/AAAAAAAAKKY/QHuBsKZIEG00JNiGFzkTU3AP5m2m0mkSgCLcBGAsYHQ/s200/maya%2Bdardel.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1W10FwZiP_WrIlCqkNGnlZjIcpb9jLlR-/preview",
-          "addedAt": "2025-10-14T00:07:49.106Z"
-        }
-      ],
+      "favorites": [],
       "history": [
         {
           "titulo": "level 16 2018 brrip hd 720p latino dual portada",
