@@ -6,12 +6,6 @@
       "credits": 5,
       "favorites": [
         {
-          "titulo": "T2C",
-          "imagen_url": "https://1.bp.blogspot.com/-BBrGfvOBesw/XTc-ezjwFgI/AAAAAAAAIBc/6hqKfVoapj4vATCnUPZH5PEgU8T8uyE5ACLcBGAs/s200/T2C2.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1nsUxRv2UJNChSl5QlZQYFq0YdeZtDa2-/preview",
-          "addedAt": "2025-10-14T19:45:15.848Z"
-        },
-        {
           "titulo": "pesadilla amanecer 2019 hd 1080p 720p latino portada",
           "imagen_url": "https://1.bp.blogspot.com/-WvabuzDHVcU/XYrPwyBEC-I/AAAAAAAAJ-I/2FGULJfz7ygl7lYT_XX5IrdITfE6QV93QCLcBGAsYHQ/s200/pesadilla-amanecer-2019-hd-1080p-720p-latino-portada.jpg",
           "pelicula_url": "https://drive.google.com/file/d/1ncOU7FqrzWRbHds_TCyU3PriUZrHGuzS/preview",
@@ -62,10 +56,22 @@
       ],
       "history": [
         {
-          "titulo": "fabricated city",
-          "pelicula_url": "https://drive.google.com/file/d/1v7WAMP5ibiUJFz3DQt-roZPlL2Vu71jo/preview",
-          "imagen_url": "https://1.bp.blogspot.com/-Ks_LVRJVn24/XaCbhcZI5vI/AAAAAAAAKQc/MvX4DOueNIE8XKqZuBj3jp5zdtGZ3p2PQCLcBGAsYHQ/s200/fabricated%2Bcity.jpg",
-          "fecha": "2025-10-14T19:45:03.490Z"
+          "titulo": "Los Descendientes 2011 BRRip HD 720p portada",
+          "pelicula_url": "https://drive.google.com/file/d/1EAHE6vBwHRVe2F_55IYFXScXIxAEQmSa/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-EtLtLjoEggQ/XaCfEaT2cLI/AAAAAAAAKRY/BGGMgtnxeswoTPboZizcwoNEpGiS95XmgCLcBGAsYHQ/s200/Los-Descendientes-2011-BRRip-HD-720p-portada.jpg",
+          "fecha": "2025-10-14T19:45:43.372Z"
+        },
+        {
+          "titulo": "T2C",
+          "pelicula_url": "https://drive.google.com/file/d/1nsUxRv2UJNChSl5QlZQYFq0YdeZtDa2-/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-BBrGfvOBesw/XTc-ezjwFgI/AAAAAAAAIBc/6hqKfVoapj4vATCnUPZH5PEgU8T8uyE5ACLcBGAs/s200/T2C2.jpg",
+          "fecha": "2025-10-14T19:45:12.521Z"
+        },
+        {
+          "titulo": "ben d",
+          "pelicula_url": "https://drive.google.com/open?id=1O6bdMf9IbQYyQroYmvZgzkLfyZ17n11j",
+          "imagen_url": "https://1.bp.blogspot.com/-aVyUht-4Pzo/XQ7PXNxcO0I/AAAAAAAAHNk/yb1RVt-EOL0JIAJnfGluZkIN9aRiLOK7wCLcBGAs/s200/ben%2Bd.jpg",
+          "fecha": "2025-10-14T19:44:54.482Z"
         },
         {
           "titulo": "pesadilla amanecer 2019 hd 1080p 720p latino portada",
