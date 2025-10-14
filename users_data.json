@@ -4,56 +4,7 @@
       "email": "zantosdavila@gmail.com",
       "tipoPlan": "creditos",
       "credits": 5,
-      "favorites": [
-        {
-          "titulo": "pesadilla amanecer 2019 hd 1080p 720p latino portada",
-          "imagen_url": "https://1.bp.blogspot.com/-WvabuzDHVcU/XYrPwyBEC-I/AAAAAAAAJ-I/2FGULJfz7ygl7lYT_XX5IrdITfE6QV93QCLcBGAsYHQ/s200/pesadilla-amanecer-2019-hd-1080p-720p-latino-portada.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1ncOU7FqrzWRbHds_TCyU3PriUZrHGuzS/preview",
-          "addedAt": "2025-10-14T19:28:22.147Z"
-        },
-        {
-          "titulo": "Los Descendientes 2011 BRRip HD 720p portada",
-          "imagen_url": "https://1.bp.blogspot.com/-EtLtLjoEggQ/XaCfEaT2cLI/AAAAAAAAKRY/BGGMgtnxeswoTPboZizcwoNEpGiS95XmgCLcBGAsYHQ/s200/Los-Descendientes-2011-BRRip-HD-720p-portada.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1EAHE6vBwHRVe2F_55IYFXScXIxAEQmSa/preview",
-          "addedAt": "2025-10-14T19:21:02.357Z"
-        },
-        {
-          "titulo": "el angel maligno 2018 hd 720p latino dual portada",
-          "imagen_url": "https://1.bp.blogspot.com/-Qt00rSvii6E/XaCfEMqezJI/AAAAAAAAKRQ/n5Fi-qd7HUANdgT7ODF2U2nCWc7sj719ACLcBGAsYHQ/s200/el-angel-maligno-2018-hd-720p-latino-dual-portada.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1Fn65Ed6QkFLwggS5pkxgR75Wh362Uuxg/preview",
-          "addedAt": "2025-10-14T19:18:17.118Z"
-        },
-        {
-          "titulo": "1 SIN LIMITES",
-          "imagen_url": "https://1.bp.blogspot.com/-VxeTiSz6wOQ/XcJOMVSlZgI/AAAAAAAAKmY/OxSu8gVC9Vk8A0QUlfx555a_kRoToenWACLcBGAsYHQ/s200/1%2BSIN%2BLIMITES.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/17hCI9-HzSUMs9mYpXc1KQUacE97Pu3L5/preview",
-          "addedAt": "2025-10-14T19:18:07.751Z"
-        },
-        {
-          "titulo": "baby driver",
-          "imagen_url": "https://1.bp.blogspot.com/-a3vgHXsa5lw/XUC3Ng2nsbI/AAAAAAAAIGY/miBvuCV1NKUNMpLheE75A-1GveOYDIROwCLcBGAs/s200/baby_driver.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1FcvYhkN4dvH0zmxwMz3RzIX3LwczP7Ry/preview",
-          "addedAt": "2025-10-14T19:15:15.979Z"
-        },
-        {
-          "titulo": "el cuarto blanco 2018 hd 1080p y 720p latino dual portada",
-          "imagen_url": "https://1.bp.blogspot.com/-Cx-yhkjU_94/Xdhwd-1Y5OI/AAAAAAAALjo/Y1ufyTlN5C0z84wX8BQIvuc3S6CtR3DmACLcBGAsYHQ/s200/el-cuarto-blanco-2018-hd-1080p-y-720p-latino-dual-portada.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1vyNV6-ncfwf3rKqz2rloovCL7vaawr22/preview",
-          "addedAt": "2025-10-14T18:19:31.972Z"
-        },
-        {
-          "titulo": "game nigth",
-          "imagen_url": "https://1.bp.blogspot.com/-74V_hg1l4UM/XS-81CB1_0I/AAAAAAAAHyo/DlHx8v_g4RktD7lpk_vw4WuSXwrxOQvowCLcBGAs/s200/game%2Bnigth.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1OIJs5qPUUKN2oka8xqu8NN_bCTQihZF9/preview",
-          "addedAt": "2025-10-14T18:08:51.414Z"
-        },
-        {
-          "titulo": "T1C",
-          "imagen_url": "https://1.bp.blogspot.com/-7C2NGBGBg6E/XTc-cm_o6-I/AAAAAAAAIBI/pb1QJ87LgT4QQyt7KpPg-dMJLz7MiNtWQCLcBGAs/s200/T1C6.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1QGBxVqgpDd3k-KS1ypGR2X-_KB-gYXmp/preview",
-          "addedAt": "2025-10-14T18:08:44.699Z"
-        }
-      ],
+      "favorites": [],
       "history": [],
       "resume": {},
       "stats": {
