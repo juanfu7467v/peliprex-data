@@ -4,7 +4,14 @@
       "email": "zantosdavila@gmail.com",
       "tipoPlan": "creditos",
       "credits": 5,
-      "favorites": [],
+      "favorites": [
+        {
+          "titulo": "T1C",
+          "imagen_url": "https://1.bp.blogspot.com/-7C2NGBGBg6E/XTc-cm_o6-I/AAAAAAAAIBI/pb1QJ87LgT4QQyt7KpPg-dMJLz7MiNtWQCLcBGAs/s200/T1C6.jpg",
+          "pelicula_url": "https://drive.google.com/file/d/1QGBxVqgpDd3k-KS1ypGR2X-_KB-gYXmp/preview",
+          "addedAt": "2025-10-14T18:08:44.699Z"
+        }
+      ],
       "history": [
         {
           "titulo": "T1C",
