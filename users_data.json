@@ -4,38 +4,13 @@
       "email": "zantosdavila@gmail.com",
       "tipoPlan": "creditos",
       "credits": 5,
-      "favorites": [
-        {
-          "titulo": "captain marvel",
-          "imagen_url": "https://1.bp.blogspot.com/-BggOIzzGAb0/XWsitZF34UI/AAAAAAAAJjo/hXaedx_hgQ0cPW7yTASfe-2Kg_IMBweDwCLcBGAs/s200/captain_marvel.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1f6Yj4qNoVPl3Jae5sOKCAxdnISTllQj5/preview?usp=sharing",
-          "addedAt": "2025-10-14T20:55:42.877Z"
-        }
-      ],
+      "favorites": [],
       "history": [
         {
           "titulo": "B infierno al volante drive",
           "pelicula_url": "https://drive.google.com/file/d/1nVtLdLXKRNjY4rHiCU1tsDgV_7YUjoal/preview?usp=sharing",
           "imagen_url": "https://1.bp.blogspot.com/-x8StiwRq52I/XWsisiMndFI/AAAAAAAAJjg/IElksnT3SbcBrRmlUQ6ZaJ4bJe2uz9UVQCLcBGAs/s200/B%2Binfierno-al-volante-drive.jpg",
-          "fecha": "2025-10-14T20:56:38.930Z"
-        },
-        {
-          "titulo": "B infierno al volante drive",
-          "pelicula_url": "https://drive.google.com/file/d/1nVtLdLXKRNjY4rHiCU1tsDgV_7YUjoal/preview?usp=sharing",
-          "imagen_url": "https://1.bp.blogspot.com/-x8StiwRq52I/XWsisiMndFI/AAAAAAAAJjg/IElksnT3SbcBrRmlUQ6ZaJ4bJe2uz9UVQCLcBGAs/s200/B%2Binfierno-al-volante-drive.jpg",
-          "fecha": "2025-10-14T20:56:20.521Z"
-        },
-        {
-          "titulo": "captain marvel",
-          "pelicula_url": "https://drive.google.com/file/d/1f6Yj4qNoVPl3Jae5sOKCAxdnISTllQj5/preview?usp=sharing",
-          "imagen_url": "https://1.bp.blogspot.com/-BggOIzzGAb0/XWsitZF34UI/AAAAAAAAJjo/hXaedx_hgQ0cPW7yTASfe-2Kg_IMBweDwCLcBGAs/s200/captain_marvel.jpg",
-          "fecha": "2025-10-14T20:56:15.944Z"
-        },
-        {
-          "titulo": "B infierno al volante drive",
-          "pelicula_url": "https://drive.google.com/file/d/1nVtLdLXKRNjY4rHiCU1tsDgV_7YUjoal/preview?usp=sharing",
-          "imagen_url": "https://1.bp.blogspot.com/-x8StiwRq52I/XWsisiMndFI/AAAAAAAAJjg/IElksnT3SbcBrRmlUQ6ZaJ4bJe2uz9UVQCLcBGAs/s200/B%2Binfierno-al-volante-drive.jpg",
-          "fecha": "2025-10-14T20:55:39.759Z"
+          "fecha": "2025-10-14T20:55:39.430Z"
         },
         {
           "titulo": "lukas poster",
