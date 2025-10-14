@@ -6,12 +6,6 @@
       "credits": 5,
       "favorites": [
         {
-          "titulo": "Guru Bodas 2015 BRRip 720p portada",
-          "imagen_url": "https://1.bp.blogspot.com/-Suq7ojDxJ1g/XcJUb6tXWmI/AAAAAAAAKoQ/7lVDUhepEdEupo_ZARzLPSY2T3PjyeSLQCLcBGAsYHQ/s200/Guru-Bodas-2015-BRRip-720p-portada.jpg",
-          "pelicula_url": "https://drive.google.com/file/d/1WdMnhsmTp9iBikNkUM5GF9pNENZbQebl/preview",
-          "addedAt": "2025-10-14T14:35:46.081Z"
-        },
-        {
           "titulo": "Scooby Doo Retorno Isla Zombi 2019 HD 1080p 720p portada",
           "imagen_url": "https://1.bp.blogspot.com/-Hznm_ldzh8A/XYEqMlv1IwI/AAAAAAAAJ0s/bA6N3oZ9n7wtdN4CNvcjlwCDvPPdF5SkgCLcBGAsYHQ/s200/Scooby-Doo-Retorno-Isla-Zombi-2019-HD-1080p-720p-portada.jpg",
           "pelicula_url": "https://drive.google.com/file/d/1-Y62owgVFE7wQowcfO_q9F8HhRLR1bBd/preview",
@@ -37,6 +31,18 @@
         }
       ],
       "history": [
+        {
+          "titulo": "Guru Bodas 2015 BRRip 720p portada",
+          "pelicula_url": "https://drive.google.com/file/d/1WdMnhsmTp9iBikNkUM5GF9pNENZbQebl/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-Suq7ojDxJ1g/XcJUb6tXWmI/AAAAAAAAKoQ/7lVDUhepEdEupo_ZARzLPSY2T3PjyeSLQCLcBGAsYHQ/s200/Guru-Bodas-2015-BRRip-720p-portada.jpg",
+          "fecha": "2025-10-14T14:35:33.161Z"
+        },
+        {
+          "titulo": "HANSEL",
+          "pelicula_url": "https://drive.google.com/file/d/1G--8RomGEVs7ujhDYwrH7983W2Bhzm3A/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-zut0Sp6RE2Y/XqUOAJ_uD1I/AAAAAAAANsk/evQY5ZuxXJQDk2ppVVsmOc478A_riqArQCLcBGAsYHQ/s200/HANSEL.png",
+          "fecha": "2025-10-14T14:35:25.707Z"
+        },
         {
           "titulo": "Scooby Doo Retorno Isla Zombi 2019 HD 1080p 720p portada",
           "pelicula_url": "https://drive.google.com/file/d/1-Y62owgVFE7wQowcfO_q9F8HhRLR1bBd/preview",
@@ -72,12 +78,6 @@
           "pelicula_url": "https://drive.google.com/file/d/1G--8RomGEVs7ujhDYwrH7983W2Bhzm3A/preview",
           "imagen_url": "https://1.bp.blogspot.com/-zut0Sp6RE2Y/XqUOAJ_uD1I/AAAAAAAANsk/evQY5ZuxXJQDk2ppVVsmOc478A_riqArQCLcBGAsYHQ/s200/HANSEL.png",
           "fecha": "2025-10-14T13:25:20.060Z"
-        },
-        {
-          "titulo": "Scooby Doo Retorno Isla Zombi 2019 HD 1080p 720p portada",
-          "pelicula_url": "https://drive.google.com/file/d/1-Y62owgVFE7wQowcfO_q9F8HhRLR1bBd/preview?usp=sharing",
-          "imagen_url": "https://1.bp.blogspot.com/-Hznm_ldzh8A/XYEqMlv1IwI/AAAAAAAAJ0s/bA6N3oZ9n7wtdN4CNvcjlwCDvPPdF5SkgCLcBGAsYHQ/s200/Scooby-Doo-Retorno-Isla-Zombi-2019-HD-1080p-720p-portada.jpg",
-          "fecha": "2025-10-14T12:01:38.030Z"
         }
       ],
       "resume": {},
