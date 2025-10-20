@@ -6,6 +6,12 @@
       "credits": 5,
       "favorites": [
         {
+          "titulo": "G",
+          "imagen_url": "https://1.bp.blogspot.com/-1s-9m2jaJe8/XVGlE8DsSjI/AAAAAAAAIVk/BkBNgW_7jIILxXdunOTcM3GxuRNGZxU5ACLcBGAs/s200/G.I.%2BJoe%2BLa%2Bvenganza%2B%2528G.I.%2BJoe%2BRetaliation%2529%2B%2528G.I.%2BJoe%2B2%2529%2B%2528GIJOE%2B2%2529%2B%2528G.I.JOE%2B3D%2529%2B%25282013%2529.jpg",
+          "pelicula_url": "https://drive.google.com/file/d/19yfFhoZJuWkhWDHK65dfKIosplmjOoY3/preview",
+          "addedAt": "2025-10-20T20:17:11.628Z"
+        },
+        {
           "titulo": "APOC",
           "imagen_url": "https://1.bp.blogspot.com/-dyhhlGI1u1I/XTFMFUuDK1I/AAAAAAAAH88/m09dTy_hTdQ6XuBulsxqVnFqDdozlUmggCLcBGAs/s200/APOC5.jpg",
           "pelicula_url": "https://drive.google.com/file/d/1PrXSQCRvV4B2ZR7kRytY62bBvMlqVQ0Q/preview",
@@ -19,12 +25,6 @@
         }
       ],
       "history": [
-        {
-          "titulo": "G",
-          "pelicula_url": "https://drive.google.com/file/d/19yfFhoZJuWkhWDHK65dfKIosplmjOoY3/preview",
-          "imagen_url": "https://1.bp.blogspot.com/-1s-9m2jaJe8/XVGlE8DsSjI/AAAAAAAAIVk/BkBNgW_7jIILxXdunOTcM3GxuRNGZxU5ACLcBGAs/s200/G.I.%2BJoe%2BLa%2Bvenganza%2B%2528G.I.%2BJoe%2BRetaliation%2529%2B%2528G.I.%2BJoe%2B2%2529%2B%2528GIJOE%2B2%2529%2B%2528G.I.JOE%2B3D%2529%2B%25282013%2529.jpg",
-          "fecha": "2025-10-20T20:16:50.912Z"
-        },
         {
           "titulo": "HANSEL",
           "pelicula_url": "https://drive.google.com/file/d/1G--8RomGEVs7ujhDYwrH7983W2Bhzm3A/preview",
