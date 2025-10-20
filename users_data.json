@@ -20,6 +20,12 @@
       ],
       "history": [
         {
+          "titulo": "Guardianes de la galaxia",
+          "pelicula_url": "https://www.youtube.com/embed/ytsjXNa8hvU",
+          "imagen_url": "https://image.tmdb.org/t/p/w500/zqZNnuMtrmK99Xux91KiCdnZxgb.jpg",
+          "fecha": "2025-10-20T16:45:48.353Z"
+        },
+        {
           "titulo": "Los Vengadores",
           "pelicula_url": "https://www.youtube.com/embed/r4RiRmlmwC8",
           "imagen_url": "https://image.tmdb.org/t/p/w500/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
