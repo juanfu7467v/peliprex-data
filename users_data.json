@@ -20,6 +20,12 @@
       ],
       "history": [
         {
+          "titulo": "Origen",
+          "pelicula_url": "https://www.youtube.com/embed/RV9L7ui9Cn8",
+          "imagen_url": "https://image.tmdb.org/t/p/w500/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
+          "fecha": "2025-10-20T16:46:29.760Z"
+        },
+        {
           "titulo": "Guardianes de la galaxia",
           "pelicula_url": "https://www.youtube.com/embed/ytsjXNa8hvU",
           "imagen_url": "https://image.tmdb.org/t/p/w500/zqZNnuMtrmK99Xux91KiCdnZxgb.jpg",
