@@ -406,6 +406,12 @@
       "credits": 0,
       "favorites": [
         {
+          "titulo": "rio",
+          "imagen_url": "https://1.bp.blogspot.com/-l23SDctRVaw/XSKxnHTin1I/AAAAAAAAHc4/229a3N_IfZElP5I3C7-z-lRBlj7tzI0rACLcBGAs/s200/rio_2.jpg",
+          "pelicula_url": "https://drive.google.com/file/d/1zxirp3scS9aHlC53OC2CmF1oFoFLcgQt/preview",
+          "addedAt": "2025-10-21T19:02:59.244Z"
+        },
+        {
           "titulo": "shaft",
           "imagen_url": "https://1.bp.blogspot.com/-be3jp-yvVro/XS-7OkZRWNI/AAAAAAAAHx4/dNgHoSPcZ3Y5WIwo6GR0pnM6vB_6BtXUACLcBGAs/s200/shaft.jpg",
           "pelicula_url": "https://drive.google.com/file/d/1-4jxADERMX1cHSvd35snFGPXzUnaSGNj/preview",
