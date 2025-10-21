@@ -405,7 +405,14 @@
       "tipoPlan": "creditos",
       "credits": 0,
       "favorites": [],
-      "history": [],
+      "history": [
+        {
+          "titulo": "SIEMPRE",
+          "pelicula_url": "https://drive.google.com/file/d/14zWwLeQCP2CjxO8VTAaBgwmge3BGDGdR/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-V3pAUMcm4Zs/XqUOBeR2X_I/AAAAAAAANsw/FGC712bTRGQ0jHe_kU6GnRJnnw2ubFDawCLcBGAsYHQ/s200/SIEMPRE.png",
+          "fecha": "2025-10-21T00:48:41.264Z"
+        }
+      ],
       "resume": {}
     }
   }
