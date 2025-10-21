@@ -405,7 +405,20 @@
       "tipoPlan": "creditos",
       "credits": 0,
       "favorites": [],
-      "history": [],
+      "history": [
+        {
+          "titulo": "FUTU",
+          "pelicula_url": "https://drive.google.com/file/d/1LKGgze5zQpglyhHYLHlQqbFM7ty272l4/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-AzJEj9h9lUU/Xng47KDUg7I/AAAAAAAANQc/Sh6pKMohKB4_7Ht9Z0k99cSeHW6KXbxlQCLcBGAsYHQ/s200/FUTU%2B3.png",
+          "fecha": "2025-10-21T15:10:32.907Z"
+        },
+        {
+          "titulo": "el huracan",
+          "pelicula_url": "https://drive.google.com/file/d/15AkqWtubyQhT7Dikr5CvlooqkxwmKpJs/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-__ZxJSF05nM/XSZSj2ItCeI/AAAAAAAAHm8/_44CgebiXloOSA7wesZLaqpmjHSsKOcswCLcBGAs/s200/el%2Bhuracan.jpg",
+          "fecha": "2025-10-21T15:10:15.659Z"
+        }
+      ],
       "resume": {}
     }
   }
