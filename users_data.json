@@ -404,7 +404,14 @@
       "email": "miguel.hd@gmail.com",
       "tipoPlan": "creditos",
       "credits": 0,
-      "favorites": [],
+      "favorites": [
+        {
+          "titulo": "shaft",
+          "imagen_url": "https://1.bp.blogspot.com/-be3jp-yvVro/XS-7OkZRWNI/AAAAAAAAHx4/dNgHoSPcZ3Y5WIwo6GR0pnM6vB_6BtXUACLcBGAs/s200/shaft.jpg",
+          "pelicula_url": "https://drive.google.com/file/d/1-4jxADERMX1cHSvd35snFGPXzUnaSGNj/preview",
+          "addedAt": "2025-10-21T15:31:55.704Z"
+        }
+      ],
       "history": [
         {
           "titulo": "shaft",
