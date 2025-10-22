@@ -662,6 +662,25 @@
       ],
       "resume": {},
       "lastActivityTimestamp": "2025-10-22T19:29:51.125Z"
+    },
+    "usuario@gmail.com": {
+      "email": "usuario@gmail.com",
+      "tipoPlan": "creditos",
+      "credits": 0,
+      "favorites": [],
+      "history": [],
+      "resume": {
+        "https://www.youtube.com/watch?v=EjemploURL": {
+          "titulo": "Pelicula de Prueba",
+          "pelicula_url": "https://www.youtube.com/watch?v=EjemploURL",
+          "currentTime": 3600,
+          "totalDuration": 7200,
+          "percentage": 50,
+          "isComplete": false,
+          "lastHeartbeat": "2025-10-22T19:37:11.590Z"
+        }
+      },
+      "lastActivityTimestamp": "2025-10-22T19:37:11.590Z"
     }
   }
 }
