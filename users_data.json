@@ -426,6 +426,12 @@
       ],
       "history": [
         {
+          "titulo": "Mi Mascota es un Le%C3%B3n",
+          "pelicula_url": "https://drive.google.com/file/d/1dgHVRLqCPs1BE-yhUjziEdll2-7r4cTk/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-Y0DYdvb_-_Q/XZ9Cw-fI5dI/AAAAAAAAKJ4/IE5Hf6SwonMYxWZqjvPIm0bL44rTImVCgCLcBGAsYHQ/s200/Mi-Mascota-es-un-Le%25C3%25B3n.jpg",
+          "fecha": "2025-10-22T19:29:51.125Z"
+        },
+        {
           "titulo": "rio",
           "pelicula_url": "https://drive.google.com/file/d/1zxirp3scS9aHlC53OC2CmF1oFoFLcgQt/preview",
           "imagen_url": "https://1.bp.blogspot.com/-l23SDctRVaw/XSKxnHTin1I/AAAAAAAAHc4/229a3N_IfZElP5I3C7-z-lRBlj7tzI0rACLcBGAs/s200/rio_2.jpg",
@@ -648,7 +654,8 @@
           "fecha": "2025-10-21T15:10:15.659Z"
         }
       ],
-      "resume": {}
+      "resume": {},
+      "lastActivityTimestamp": "2025-10-22T19:29:51.125Z"
     }
   }
 }
