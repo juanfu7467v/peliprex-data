@@ -412,6 +412,12 @@
       "credits": 0,
       "favorites": [
         {
+          "titulo": "The Boy Who Harnessed Wind 2018 HD portada",
+          "imagen_url": "https://1.bp.blogspot.com/-raWuM7Jxsn0/XcJV7XlSDNI/AAAAAAAAKpY/UWB73m1Fq_grTPAwWsRlmRuR9KClzgk2QCLcBGAsYHQ/s200/The-Boy-Who-Harnessed-Wind-2018-HD-portada.jpg",
+          "pelicula_url": "https://drive.google.com/file/d/1mpfO21WQV8-V-PpbEqZN_hvzK0wvdsB6/preview?usp=sharing",
+          "addedAt": "2025-10-22T19:30:52.207Z"
+        },
+        {
           "titulo": "rio",
           "imagen_url": "https://1.bp.blogspot.com/-l23SDctRVaw/XSKxnHTin1I/AAAAAAAAHc4/229a3N_IfZElP5I3C7-z-lRBlj7tzI0rACLcBGAs/s200/rio_2.jpg",
           "pelicula_url": "https://drive.google.com/file/d/1zxirp3scS9aHlC53OC2CmF1oFoFLcgQt/preview",
@@ -426,10 +432,40 @@
       ],
       "history": [
         {
-          "titulo": "The Boy Who Harnessed Wind 2018 HD portada",
-          "pelicula_url": "https://drive.google.com/file/d/1mpfO21WQV8-V-PpbEqZN_hvzK0wvdsB6/preview?usp=sharing",
-          "imagen_url": "https://1.bp.blogspot.com/-raWuM7Jxsn0/XcJV7XlSDNI/AAAAAAAAKpY/UWB73m1Fq_grTPAwWsRlmRuR9KClzgk2QCLcBGAsYHQ/s200/The-Boy-Who-Harnessed-Wind-2018-HD-portada.jpg",
-          "fecha": "2025-10-22T19:30:48.180Z"
+          "titulo": "julieta 2016 hd 1080p 720p castellano portada",
+          "pelicula_url": "https://drive.google.com/file/d/1T8wMIbpN7VGqnl-yB9ORAd4qXzGxGADP/preview?usp=sharing",
+          "imagen_url": "https://1.bp.blogspot.com/-45b-s_Exm9A/Xdhwe6EzCII/AAAAAAAALjw/eaS8dxclrDEUNPuVZwQ_7kDRlGPkiR2NACLcBGAsYHQ/s200/julieta-2016-hd-1080p-720p-castellano-portada.jpg",
+          "fecha": "2025-10-22T19:30:42.661Z"
+        },
+        {
+          "titulo": "cajita khumlacebra",
+          "pelicula_url": "https://drive.google.com/file/d/1M4d7dgYaBNWCQO8xNs1Fna-_MrSuNeiv/preview?usp=sharing",
+          "imagen_url": "https://1.bp.blogspot.com/-E_FKDHtDvAg/XSKxgyDF3HI/AAAAAAAAHcM/2z9YuNadGB8cJ6IdTOZzuJhLl0E9WEkWwCLcBGAs/s200/cajita-khumlacebra.jpg",
+          "fecha": "2025-10-22T19:30:36.931Z"
+        },
+        {
+          "titulo": "shaft",
+          "pelicula_url": "https://drive.google.com/file/d/1-4jxADERMX1cHSvd35snFGPXzUnaSGNj/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-be3jp-yvVro/XS-7OkZRWNI/AAAAAAAAHx4/dNgHoSPcZ3Y5WIwo6GR0pnM6vB_6BtXUACLcBGAs/s200/shaft.jpg",
+          "fecha": "2025-10-22T19:30:32.826Z"
+        },
+        {
+          "titulo": "shaft",
+          "pelicula_url": "https://drive.google.com/file/d/1-4jxADERMX1cHSvd35snFGPXzUnaSGNj/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-be3jp-yvVro/XS-7OkZRWNI/AAAAAAAAHx4/dNgHoSPcZ3Y5WIwo6GR0pnM6vB_6BtXUACLcBGAs/s200/shaft.jpg",
+          "fecha": "2025-10-22T19:30:25.831Z"
+        },
+        {
+          "titulo": "la razon de estar contigo",
+          "pelicula_url": "https://drive.google.com/file/d/15ptgWzKcTeOcGJTBXcAXT_ghqyeKJu2Z/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-4iL-U5Dswns/XWsnHoUyG_I/AAAAAAAAJmA/3fmC-Evl-5YJYwl1793r7BY-Zp-bdIVngCLcBGAs/s200/la%2Brazon%2Bde%2Bestar%2Bcontigo.jpg",
+          "fecha": "2025-10-22T19:30:07.672Z"
+        },
+        {
+          "titulo": "Mi Mascota es un Le%C3%B3n",
+          "pelicula_url": "https://drive.google.com/file/d/1dgHVRLqCPs1BE-yhUjziEdll2-7r4cTk/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-Y0DYdvb_-_Q/XZ9Cw-fI5dI/AAAAAAAAKJ4/IE5Hf6SwonMYxWZqjvPIm0bL44rTImVCgCLcBGAsYHQ/s200/Mi-Mascota-es-un-Le%25C3%25B3n.jpg",
+          "fecha": "2025-10-22T19:29:51.125Z"
         },
         {
           "titulo": "rio",
@@ -655,7 +691,7 @@
         }
       ],
       "resume": {},
-      "lastActivityTimestamp": "2025-10-22T19:30:48.180Z"
+      "lastActivityTimestamp": "2025-10-22T19:29:51.125Z"
     }
   }
 }
