@@ -688,14 +688,14 @@
         "https://drive.google.com/file/d/1zxirp3scS9aHlC53OC2CmF1oFoFLcgQt/preview": {
           "titulo": "rio",
           "pelicula_url": "https://drive.google.com/file/d/1zxirp3scS9aHlC53OC2CmF1oFoFLcgQt/preview",
-          "currentTime": 120,
+          "currentTime": 180,
           "totalDuration": 7200,
-          "percentage": 2,
+          "percentage": 3,
           "isComplete": false,
-          "lastHeartbeat": "2025-10-22T20:31:56.086Z"
+          "lastHeartbeat": "2025-10-22T20:32:56.081Z"
         }
       },
-      "lastActivityTimestamp": "2025-10-22T20:31:56.086Z"
+      "lastActivityTimestamp": "2025-10-22T20:32:56.081Z"
     },
     "usuario@gmail.com": {
       "email": "usuario@gmail.com",
