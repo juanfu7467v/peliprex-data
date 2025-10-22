@@ -426,6 +426,12 @@
       ],
       "history": [
         {
+          "titulo": "rio",
+          "pelicula_url": "https://drive.google.com/file/d/1zxirp3scS9aHlC53OC2CmF1oFoFLcgQt/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-l23SDctRVaw/XSKxnHTin1I/AAAAAAAAHc4/229a3N_IfZElP5I3C7-z-lRBlj7tzI0rACLcBGAs/s200/rio_2.jpg",
+          "fecha": "2025-10-22T20:29:28.966Z"
+        },
+        {
           "titulo": "cajita khumlacebra",
           "pelicula_url": "https://drive.google.com/file/d/1M4d7dgYaBNWCQO8xNs1Fna-_MrSuNeiv/preview",
           "imagen_url": "https://1.bp.blogspot.com/-E_FKDHtDvAg/XSKxgyDF3HI/AAAAAAAAHcM/2z9YuNadGB8cJ6IdTOZzuJhLl0E9WEkWwCLcBGAs/s200/cajita-khumlacebra.jpg",
@@ -680,10 +686,10 @@
           "totalDuration": 7200,
           "percentage": 0,
           "isComplete": false,
-          "lastHeartbeat": "2025-10-22T20:29:28.961Z"
+          "lastHeartbeat": "2025-10-22T20:29:56.077Z"
         }
       },
-      "lastActivityTimestamp": "2025-10-22T20:29:28.961Z"
+      "lastActivityTimestamp": "2025-10-22T20:29:56.077Z"
     },
     "usuario@gmail.com": {
       "email": "usuario@gmail.com",
