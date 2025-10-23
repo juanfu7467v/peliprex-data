@@ -727,14 +727,14 @@
         "https://drive.google.com/file/d/1M4d7dgYaBNWCQO8xNs1Fna-_MrSuNeiv/preview": {
           "titulo": "cajita khumlacebra",
           "pelicula_url": "https://drive.google.com/file/d/1M4d7dgYaBNWCQO8xNs1Fna-_MrSuNeiv/preview",
-          "currentTime": 480,
+          "currentTime": 540,
           "totalDuration": 7200,
-          "percentage": 7,
+          "percentage": 8,
           "isComplete": false,
-          "lastHeartbeat": "2025-10-23T13:04:11.324Z"
+          "lastHeartbeat": "2025-10-23T13:05:11.947Z"
         }
       },
-      "lastActivityTimestamp": "2025-10-23T13:04:11.324Z"
+      "lastActivityTimestamp": "2025-10-23T13:05:11.947Z"
     },
     "usuario@gmail.com": {
       "email": "usuario@gmail.com",
