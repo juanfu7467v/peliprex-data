@@ -429,6 +429,12 @@
           "titulo": "rio",
           "pelicula_url": "https://drive.google.com/file/d/1zxirp3scS9aHlC53OC2CmF1oFoFLcgQt/preview",
           "imagen_url": "https://1.bp.blogspot.com/-l23SDctRVaw/XSKxnHTin1I/AAAAAAAAHc4/229a3N_IfZElP5I3C7-z-lRBlj7tzI0rACLcBGAs/s200/rio_2.jpg",
+          "fecha": "2025-10-23T02:24:00.151Z"
+        },
+        {
+          "titulo": "rio",
+          "pelicula_url": "https://drive.google.com/file/d/1zxirp3scS9aHlC53OC2CmF1oFoFLcgQt/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-l23SDctRVaw/XSKxnHTin1I/AAAAAAAAHc4/229a3N_IfZElP5I3C7-z-lRBlj7tzI0rACLcBGAs/s200/rio_2.jpg",
           "fecha": "2025-10-22T20:29:56.082Z"
         },
         {
@@ -688,14 +694,14 @@
         "https://drive.google.com/file/d/1zxirp3scS9aHlC53OC2CmF1oFoFLcgQt/preview": {
           "titulo": "rio",
           "pelicula_url": "https://drive.google.com/file/d/1zxirp3scS9aHlC53OC2CmF1oFoFLcgQt/preview",
-          "currentTime": 180,
+          "currentTime": 0,
           "totalDuration": 7200,
-          "percentage": 3,
+          "percentage": 0,
           "isComplete": false,
-          "lastHeartbeat": "2025-10-22T20:32:56.081Z"
+          "lastHeartbeat": "2025-10-23T02:24:00.136Z"
         }
       },
-      "lastActivityTimestamp": "2025-10-22T20:32:56.081Z"
+      "lastActivityTimestamp": "2025-10-23T02:24:00.136Z"
     },
     "usuario@gmail.com": {
       "email": "usuario@gmail.com",
