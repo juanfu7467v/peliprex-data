@@ -699,9 +699,18 @@
           "percentage": 0,
           "isComplete": false,
           "lastHeartbeat": "2025-10-23T02:24:02.922Z"
+        },
+        "https://drive.google.com/file/d/1M4d7dgYaBNWCQO8xNs1Fna-_MrSuNeiv/preview": {
+          "titulo": "cajita khumlacebra",
+          "pelicula_url": "https://drive.google.com/file/d/1M4d7dgYaBNWCQO8xNs1Fna-_MrSuNeiv/preview",
+          "currentTime": 0,
+          "totalDuration": 7200,
+          "percentage": 0,
+          "isComplete": false,
+          "lastHeartbeat": "2025-10-23T02:24:05.621Z"
         }
       },
-      "lastActivityTimestamp": "2025-10-23T02:24:02.922Z"
+      "lastActivityTimestamp": "2025-10-23T02:24:05.621Z"
     },
     "usuario@gmail.com": {
       "email": "usuario@gmail.com",
