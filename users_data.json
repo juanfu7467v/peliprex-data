@@ -429,18 +429,6 @@
           "titulo": "cajita khumlacebra",
           "pelicula_url": "https://drive.google.com/file/d/1M4d7dgYaBNWCQO8xNs1Fna-_MrSuNeiv/preview",
           "imagen_url": "https://1.bp.blogspot.com/-E_FKDHtDvAg/XSKxgyDF3HI/AAAAAAAAHcM/2z9YuNadGB8cJ6IdTOZzuJhLl0E9WEkWwCLcBGAs/s200/cajita-khumlacebra.jpg",
-          "fecha": "2025-10-23T12:34:19.132Z"
-        },
-        {
-          "titulo": "cajita khumlacebra",
-          "pelicula_url": "https://drive.google.com/file/d/1M4d7dgYaBNWCQO8xNs1Fna-_MrSuNeiv/preview",
-          "imagen_url": "https://1.bp.blogspot.com/-E_FKDHtDvAg/XSKxgyDF3HI/AAAAAAAAHcM/2z9YuNadGB8cJ6IdTOZzuJhLl0E9WEkWwCLcBGAs/s200/cajita-khumlacebra.jpg",
-          "fecha": "2025-10-23T12:34:18.416Z"
-        },
-        {
-          "titulo": "cajita khumlacebra",
-          "pelicula_url": "https://drive.google.com/file/d/1M4d7dgYaBNWCQO8xNs1Fna-_MrSuNeiv/preview",
-          "imagen_url": "https://1.bp.blogspot.com/-E_FKDHtDvAg/XSKxgyDF3HI/AAAAAAAAHcM/2z9YuNadGB8cJ6IdTOZzuJhLl0E9WEkWwCLcBGAs/s200/cajita-khumlacebra.jpg",
           "fecha": "2025-10-23T02:24:05.625Z"
         },
         {
@@ -725,10 +713,10 @@
           "totalDuration": 7200,
           "percentage": 0,
           "isComplete": false,
-          "lastHeartbeat": "2025-10-23T02:24:05.621Z"
+          "lastHeartbeat": "2025-10-23T12:34:19.021Z"
         }
       },
-      "lastActivityTimestamp": "2025-10-23T02:24:05.621Z"
+      "lastActivityTimestamp": "2025-10-23T12:34:19.021Z"
     },
     "usuario@gmail.com": {
       "email": "usuario@gmail.com",
