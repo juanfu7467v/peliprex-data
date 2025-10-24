@@ -32,6 +32,12 @@
       ],
       "history": [
         {
+          "titulo": "ANILLOS",
+          "pelicula_url": "https://drive.google.com/file/d/1bBZzuIvdH_6TAQAk2-CYwFnmuS6u0dap/preview",
+          "imagen_url": "https://1.bp.blogspot.com/-WLXlllBj22Q/XopNjAEffvI/AAAAAAAANZA/wbqfkO-vvFg-Q8Gocokz9T9IARA721Y_ACLcBGAsYHQ/s200/ANILLOS%2B1.png",
+          "fecha": "2025-10-24T18:34:24.824Z"
+        },
+        {
           "titulo": "G",
           "pelicula_url": "https://drive.google.com/file/d/19yfFhoZJuWkhWDHK65dfKIosplmjOoY3/preview",
           "imagen_url": "https://1.bp.blogspot.com/-1s-9m2jaJe8/XVGlE8DsSjI/AAAAAAAAIVk/BkBNgW_7jIILxXdunOTcM3GxuRNGZxU5ACLcBGAs/s200/G.I.%2BJoe%2BLa%2Bvenganza%2B%2528G.I.%2BJoe%2BRetaliation%2529%2B%2528G.I.%2BJoe%2B2%2529%2B%2528GIJOE%2B2%2529%2B%2528G.I.JOE%2B3D%2529%2B%25282013%2529.jpg",
@@ -384,7 +390,8 @@
       "stats": {
         "vistasTotales": 1,
         "favoritasTotales": 0
-      }
+      },
+      "lastActivityTimestamp": "2025-10-24T18:34:24.824Z"
     },
     "prueba@gmail.com": {
       "email": "prueba@gmail.com",
