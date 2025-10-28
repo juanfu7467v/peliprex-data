@@ -475,6 +475,12 @@
       ],
       "history": [
         {
+          "titulo": "Los Vengadores",
+          "pelicula_url": "https://www.youtube.com/embed/r4RiRmlmwC8",
+          "imagen_url": "https://image.tmdb.org/t/p/w500/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
+          "fecha": "2025-10-28T20:03:26.868Z"
+        },
+        {
           "titulo": "Avatar",
           "pelicula_url": "https://www.youtube.com/embed/QTVwcSdREh0",
           "imagen_url": "https://image.tmdb.org/t/p/w500/nn7prZXNz3dgCV5jeShqqfHcU9F.jpg",
